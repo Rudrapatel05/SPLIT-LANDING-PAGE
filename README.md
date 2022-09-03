@@ -1,0 +1,2 @@
+# SPLIT-LANDING-PAGE
+Split Landing Page using HTML,CSS And JAVASCRIPT
